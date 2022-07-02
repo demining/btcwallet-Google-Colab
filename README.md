@@ -197,10 +197,6 @@ verify the signature perform the following:
   git tag -v TAG_NAME
   ```
 
-## License
-
-btcwallet is licensed under the liberal ISC License.
-
 ----
 
 |  | Donation Address |
